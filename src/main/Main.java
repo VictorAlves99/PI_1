@@ -1,12 +1,12 @@
 
-package projetointegradori;
+package main;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class ProjetoIntegradorI {
+public class Main {
 	private static int qtdVida = 3; // essa variavel é global, para quantidade de vida
 	private static String nomeJogador = null; // essa variavel é global, para o nome do jogador
 
